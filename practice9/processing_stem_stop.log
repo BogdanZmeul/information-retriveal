@@ -1,0 +1,70 @@
+=== CACM Information Retrieval System Testing ===
+Parsing CACM files...
+Collection Size: 3204 documents
+Total words: 196450
+Total unique words (vocabulary): 7988
+
+--- Testing Boolean InvertedIndex ---
+Index built in 450 ms
+Approximate vocabulary size passed: 7988
+Metrics (Averaged over 52 queries): Time: 1,92 ms | Precision: 0,0120 | Recall: 0,9240 | F1: 0,0234 | Accuracy: 0,5763
+
+--- Testing MatrixDictionary ---
+Index built in 124 ms
+Metrics (Averaged over 52 queries): Time: 0,48 ms | Precision: 0,0120 | Recall: 0,9240 | F1: 0,0234 | Accuracy: 0,5763
+
+--- Testing DoubleTreeDictionary ---
+Index built in 250 ms
+Metrics (Averaged over 52 queries): Time: 2,13 ms | Precision: 0,0111 | Recall: 0,9274 | F1: 0,0217 | Accuracy: 0,5374
+
+--- Testing KGramIndex ---
+Index built in 288 ms
+Metrics (Averaged over 52 queries): Time: 1,84 ms | Precision: 0,0111 | Recall: 0,9274 | F1: 0,0217 | Accuracy: 0,5374
+
+--- Testing RotatedTermIndex ---
+Index built in 224 ms
+Metrics (Averaged over 52 queries): Time: 0,63 ms | Precision: 0,0111 | Recall: 0,9274 | F1: 0,0217 | Accuracy: 0,5374
+
+--- Testing ClusterSearcher (Ranked Retrieval) ---
+Cluster Index built in 579 ms. Clusters created: 56
+Metrics (Averaged over 52 queries): Time: 1,02 ms | Precision: 0,1442 | Recall: 0,2207 | F1: 0,1470 | Accuracy: 0,9908
+
+--- Testing MapReduce Indexing ---
+MAP-START: Processing file cacm_mr_input.txt (ID: 1)
+PHASE: MAP FINISHED in 0 min 0 sec (252 ms).
+REDUCE-START: Partition 0
+REDUCE-START: Partition 4
+REDUCE-START: Partition 3
+REDUCE-START: Partition 2
+REDUCE-START: Partition 1
+REDUCE-START: Partition 6
+REDUCE-START: Partition 5
+REDUCE-START: Partition 7
+PHASE: REDUCE FINISHED in 0 min 0 sec (38 ms).
+REDUCE-START: Partition 8
+PHASE: REDUCE FINISHED in 0 min 0 sec (36 ms).
+REDUCE-START: Partition 9
+PHASE: REDUCE FINISHED in 0 min 0 sec (49 ms).
+REDUCE-START: Partition 10
+PHASE: REDUCE FINISHED in 0 min 0 sec (54 ms).
+REDUCE-START: Partition 11
+PHASE: REDUCE FINISHED in 0 min 0 sec (31 ms).
+PHASE: REDUCE FINISHED in 0 min 0 sec (76 ms).
+REDUCE-START: Partition 12
+REDUCE-START: Partition 13
+PHASE: REDUCE FINISHED in 0 min 0 sec (40 ms).
+REDUCE-START: Partition 14
+PHASE: REDUCE FINISHED in 0 min 0 sec (42 ms).
+REDUCE-START: Partition 15
+PHASE: REDUCE FINISHED in 0 min 0 sec (39 ms).
+PHASE: REDUCE FINISHED in 0 min 0 sec (102 ms).
+PHASE: REDUCE FINISHED in 0 min 0 sec (103 ms).
+PHASE: REDUCE FINISHED in 0 min 0 sec (105 ms).
+PHASE: REDUCE FINISHED in 0 min 0 sec (25 ms).
+PHASE: REDUCE FINISHED in 0 min 0 sec (31 ms).
+PHASE: REDUCE FINISHED in 0 min 0 sec (31 ms).
+PHASE: REDUCE FINISHED in 0 min 0 sec (28 ms).
+Compressing generated index parts...
+MapReduce Compression time: 103 ms
+Compressed Data Total Size: 219083 bytes
+MapReduce Total Indexing (including compression) time: 552 ms
