@@ -1,0 +1,136 @@
+SYSTEM STARTED with 8 threads.
+PHASE: MAP STARTED. Found 46 files.
+MAP-START: Processing file wiki_chunk_0.txt (ID: 0)
+MAP-START: Processing file wiki_chunk_15.txt (ID: 15)
+MAP-START: Processing file wiki_chunk_1.txt (ID: 1)
+MAP-START: Processing file wiki_chunk_10.txt (ID: 10)
+MAP-START: Processing file wiki_chunk_14.txt (ID: 14)
+MAP-START: Processing file wiki_chunk_12.txt (ID: 12)
+MAP-START: Processing file wiki_chunk_13.txt (ID: 13)
+MAP-START: Processing file wiki_chunk_11.txt (ID: 11)
+PHASE: MAP FINISHED in 1 min 2 sec (62658 ms).
+MAP-START: Processing file wiki_chunk_16.txt (ID: 16)
+PHASE: MAP FINISHED in 1 min 4 sec (64261 ms).
+MAP-START: Processing file wiki_chunk_17.txt (ID: 17)
+PHASE: MAP FINISHED in 1 min 8 sec (68319 ms).
+MAP-START: Processing file wiki_chunk_18.txt (ID: 18)
+PHASE: MAP FINISHED in 1 min 9 sec (69810 ms).
+MAP-START: Processing file wiki_chunk_19.txt (ID: 19)
+PHASE: MAP FINISHED in 1 min 16 sec (76132 ms).
+MAP-START: Processing file wiki_chunk_2.txt (ID: 2)
+PHASE: MAP FINISHED in 1 min 17 sec (77654 ms).
+MAP-START: Processing file wiki_chunk_20.txt (ID: 20)
+PHASE: MAP FINISHED in 1 min 46 sec (106872 ms).
+MAP-START: Processing file wiki_chunk_21.txt (ID: 21)
+PHASE: MAP FINISHED in 2 min 3 sec (123185 ms).
+MAP-START: Processing file wiki_chunk_22.txt (ID: 22)
+PHASE: MAP FINISHED in 1 min 5 sec (65940 ms).
+MAP-START: Processing file wiki_chunk_23.txt (ID: 23)
+PHASE: MAP FINISHED in 1 min 20 sec (80403 ms).
+MAP-START: Processing file wiki_chunk_24.txt (ID: 24)
+PHASE: MAP FINISHED in 1 min 26 sec (86872 ms).
+MAP-START: Processing file wiki_chunk_25.txt (ID: 25)
+PHASE: MAP FINISHED in 1 min 14 sec (74353 ms).
+MAP-START: Processing file wiki_chunk_26.txt (ID: 26)
+PHASE: MAP FINISHED in 2 min 0 sec (120605 ms).
+MAP-START: Processing file wiki_chunk_27.txt (ID: 27)
+PHASE: MAP FINISHED in 1 min 32 sec (92997 ms).
+MAP-START: Processing file wiki_chunk_28.txt (ID: 28)
+PHASE: MAP FINISHED in 1 min 51 sec (111474 ms).
+MAP-START: Processing file wiki_chunk_29.txt (ID: 29)
+PHASE: MAP FINISHED in 1 min 30 sec (90202 ms).
+MAP-START: Processing file wiki_chunk_3.txt (ID: 3)
+PHASE: MAP FINISHED in 1 min 46 sec (106817 ms).
+MAP-START: Processing file wiki_chunk_30.txt (ID: 30)
+PHASE: MAP FINISHED in 1 min 47 sec (107747 ms).
+MAP-START: Processing file wiki_chunk_31.txt (ID: 31)
+PHASE: MAP FINISHED in 2 min 20 sec (140241 ms).
+MAP-START: Processing file wiki_chunk_32.txt (ID: 32)
+PHASE: MAP FINISHED in 4 min 6 sec (246647 ms).
+MAP-START: Processing file wiki_chunk_33.txt (ID: 33)
+PHASE: MAP FINISHED in 2 min 9 sec (129119 ms).
+MAP-START: Processing file wiki_chunk_34.txt (ID: 34)
+PHASE: MAP FINISHED in 2 min 8 sec (128530 ms).
+MAP-START: Processing file wiki_chunk_35.txt (ID: 35)
+PHASE: MAP FINISHED in 2 min 25 sec (145632 ms).
+MAP-START: Processing file wiki_chunk_36.txt (ID: 36)
+PHASE: MAP FINISHED in 2 min 2 sec (122314 ms).
+MAP-START: Processing file wiki_chunk_37.txt (ID: 37)
+PHASE: MAP FINISHED in 1 min 54 sec (114912 ms).
+MAP-START: Processing file wiki_chunk_38.txt (ID: 38)
+PHASE: MAP FINISHED in 2 min 7 sec (127258 ms).
+MAP-START: Processing file wiki_chunk_39.txt (ID: 39)
+PHASE: MAP FINISHED in 1 min 53 sec (113877 ms).
+MAP-START: Processing file wiki_chunk_4.txt (ID: 4)
+PHASE: MAP FINISHED in 2 min 5 sec (125666 ms).
+MAP-START: Processing file wiki_chunk_40.txt (ID: 40)
+PHASE: MAP FINISHED in 3 min 25 sec (205639 ms).
+MAP-START: Processing file wiki_chunk_41.txt (ID: 41)
+PHASE: MAP FINISHED in 1 min 58 sec (118999 ms).
+MAP-START: Processing file wiki_chunk_42.txt (ID: 42)
+PHASE: MAP FINISHED in 1 min 26 sec (86466 ms).
+MAP-START: Processing file wiki_chunk_43.txt (ID: 43)
+PHASE: MAP FINISHED in 1 min 51 sec (111758 ms).
+MAP-START: Processing file wiki_chunk_44.txt (ID: 44)
+PHASE: MAP FINISHED in 1 min 48 sec (108675 ms).
+MAP-START: Processing file wiki_chunk_45.txt (ID: 45)
+PHASE: MAP FINISHED in 1 min 48 sec (108388 ms).
+MAP-START: Processing file wiki_chunk_5.txt (ID: 5)
+PHASE: MAP FINISHED in 2 min 2 sec (122792 ms).
+MAP-START: Processing file wiki_chunk_6.txt (ID: 6)
+PHASE: MAP FINISHED in 3 min 15 sec (195577 ms).
+MAP-START: Processing file wiki_chunk_7.txt (ID: 7)
+PHASE: MAP FINISHED in 2 min 24 sec (144107 ms).
+MAP-START: Processing file wiki_chunk_8.txt (ID: 8)
+PHASE: MAP FINISHED in 2 min 49 sec (169864 ms).
+MAP-START: Processing file wiki_chunk_9.txt (ID: 9)
+PHASE: MAP FINISHED in 2 min 57 sec (177915 ms).
+PHASE: MAP FINISHED in 4 min 9 sec (249389 ms).
+PHASE: MAP FINISHED in 4 min 33 sec (273005 ms).
+PHASE: MAP FINISHED in 5 min 37 sec (337871 ms).
+PHASE: MAP FINISHED in 2 min 43 sec (163208 ms).
+PHASE: MAP FINISHED in 2 min 57 sec (177359 ms).
+PHASE: MAP FINISHED in 2 min 36 sec (156581 ms).
+PHASE: MAP FINISHED in 6 min 33 sec (393450 ms).
+PHASE: MAP FINISHED in 14 min 0 sec (840482 ms).
+PHASE: REDUCE STARTED with 16 partitions.
+REDUCE-START: Partition 5
+REDUCE-START: Partition 6
+REDUCE-START: Partition 4
+REDUCE-START: Partition 0
+REDUCE-START: Partition 3
+REDUCE-START: Partition 2
+REDUCE-START: Partition 1
+REDUCE-START: Partition 7
+PHASE: REDUCE FINISHED in 1 min 39 sec (99447 ms).
+REDUCE-START: Partition 8
+PHASE: REDUCE FINISHED in 1 min 39 sec (99909 ms).
+REDUCE-START: Partition 9
+PHASE: REDUCE FINISHED in 2 min 26 sec (146110 ms).
+REDUCE-START: Partition 10
+PHASE: REDUCE FINISHED in 2 min 27 sec (147469 ms).
+REDUCE-START: Partition 11
+PHASE: REDUCE FINISHED in 2 min 29 sec (149058 ms).
+REDUCE-START: Partition 12
+PHASE: REDUCE FINISHED in 3 min 14 sec (194922 ms).
+REDUCE-START: Partition 13
+PHASE: REDUCE FINISHED in 3 min 16 sec (196975 ms).
+REDUCE-START: Partition 14
+PHASE: REDUCE FINISHED in 3 min 21 sec (201303 ms).
+REDUCE-START: Partition 15
+PHASE: REDUCE FINISHED in 1 min 49 sec (109649 ms).
+PHASE: REDUCE FINISHED in 2 min 33 sec (153093 ms).
+PHASE: REDUCE FINISHED in 1 min 56 sec (116080 ms).
+PHASE: REDUCE FINISHED in 2 min 52 sec (172559 ms).
+PHASE: REDUCE FINISHED in 2 min 57 sec (177578 ms).
+PHASE: REDUCE FINISHED in 2 min 6 sec (126099 ms).
+PHASE: REDUCE FINISHED in 2 min 12 sec (132975 ms).
+PHASE: REDUCE FINISHED in 3 min 53 sec (233339 ms).
+PHASE: REDUCE FINISHED in 5 min 32 sec (332810 ms).
+Input Data:       46 files (18,30 GB)
+Vocabulary Size:  9372444 terms
+Index Size:       10,08 GB
+MAP Time:         14 min 0 sec
+REDUCE Time:      5 min 32 sec
+TOTAL Time:       19 min 50 sec
+
